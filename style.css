@@ -1,0 +1,38 @@
+[class=button ] {
+  min-width: 6vh 12vw
+  display:  inline-block;cursor: pointer;
+  font-size:2vh ;
+  padding:2vh 4vw;
+  text-decoration:none;
+  color:#000000;
+  background:#00D900;
+  border-radius:2vh;
+  border:0.5vh solid #00D900;
+} /*класс кнопок с их параметрами*/
+[class=h ] {
+  min-width: 6vh 12vw
+  display:  inline-block;cursor: pointer;
+  font-size:2vh ;
+  padding:2vh 4vw;
+  text-decoration:none;
+  color:#000000;
+  background:#FFFF00;
+  border-radius:2vh;
+  border:0.5vh solid #FFFF00;
+}/*класс подписи, для страниц типа img с их параметрами*/
+
+
+[class=img]{
+
+
+  display:  inline-block;cursor: pointer;
+  border:0.5vh solid #00D900;
+
+}/*класс с их параметрами для картинок (используется в файлах типа img)*/
+.text {
+  background-color: #FFFF00;
+  padding: 2vw;
+  max-width: 30vw;
+  margin: 0 auto;
+}
+/*класс для текстовых блоков с их параметрами (используется в файлах типа otv)*/
